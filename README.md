@@ -1,7 +1,7 @@
 # Shop Design Template
 
 
-### Description 
+## Description 
 
 This shop design was fully created in HTML and CSS and includes a bit of JavaScript for the toggle button function. There is no backend, no single product page, no account system, and no shopping cart. Despite this, an unlimited number of product cards can be added without requiring any major changes to the code.
 
@@ -9,7 +9,7 @@ The navigation is accessible through a navigation bar that adapts well to any de
 
 I put a lot of effort into creating this design to make sure it looks good and is user-friendly. We hope you will enjoy using it and that it helps you in designing your own online shop. Please note that the design is under the Apache License 2.0 and it is important to adhere to these license terms.
 
-#### License 
+### License 
 
 The Apache License 2.0 is a free software license that allows software to be used, modified, and distributed for any purpose. It is a permissive license that has few restrictions on the use and distribution of software.
 
@@ -27,7 +27,7 @@ Please note that this is just a brief summary of the key points of the Apache Li
 I look forward to hearing from you and am always open to feedback and suggestions for improvement. All information on how to contact me can be found further down.
 
 
-### Download
+## Download
 
 1. Go to the GitHub page of the repository you want to download.
 2. Click on the green *Code* button and then select *Download ZIP* from the dropdown menu.
@@ -40,11 +40,11 @@ I look forward to hearing from you and am always open to feedback and suggestion
 You can then run the code and view the website by using the `open in browser` extension. You can find more useful extensions further down.
 
 
-### Extensions 
+## Extensions 
 
 Here are some recommendations for Visual Studio Code extensions that could help you with HTML and CSS projects:
 
-#### Useful extensions recommendation
+### Useful extensions recommendation
 
 * `Open in Browser`: This extension allows you to open your HTML files directly in a browser without having to save them first. This can be especially useful if you want to quickly preview your work.
 
@@ -52,24 +52,25 @@ Here are some recommendations for Visual Studio Code extensions that could help 
 
 * `Prettier Code Formatter`: This extension automatically formats your code to make it more readable and organized. You can set how you want your code to be formatted, and the extension takes care of the rest. This can be especially useful if you are working with other developers and want to use a consistent formatting scheme.
 
-#### Optical extensions
+### Optical extensions
 
 * `Horizon Theme`: This theme gives your Visual Studio Code editor a modern and clean look. It offers many options for customizing colors and fonts and is easy to read.
 
 * `Material Icon Theme`: This extension adds Material Design icons to your files and folders to help you navigate better. The icons are color-coded and look good.
 
 
-### Changes
+## Changes
 
-Important changes will be noted here in the future. Currently, there are no major changes to the main project.
-
-
-### Future planned changes
-
-In the near future, I will add a JSON Server system with Axios to retrieve data from the JSON Server and create product cards even faster. This will also contribute to a better overview of all products. It will significantly simplify the development of product cards and contribute to a better user experience. I am looking forward to making these changes and hope they will be of benefit.
+* `05.01.2023` - I have created a programmatic representation of all products using JavaScript and HTML. To do this, I first created a list of products stored in JSON format. Then, I created a function that creates an HTML element for each product and returns the element. Finally, I used a loop to go through all the products and call the function to create the HTML element for each one.
 
 
-### Contact
+
+## Future planned changes
+
+Currently, no changes are being made to the products. However, users are able to submit ideas and suggestions for new systems or changes to existing systems. We welcome all feedback and will take it into consideration for future updates.
+
+
+## Contact
 
 * Discord: `Cmd Wolffe | Official#3636` - [View my Discord Profile](https://discord.com/users/884114936622637136)
 * Twitter: `@CmdWolffe` - [Send me a Tweet](https://twitter.com/CmdWolffe)
