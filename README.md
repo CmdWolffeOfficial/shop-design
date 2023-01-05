@@ -69,6 +69,4 @@ Important changes will be noted here in the future. Currently, there are no majo
 In the near future, I will add a JSON Server system with Axios to retrieve data from the JSON Server and create product cards even faster. This will also contribute to a better overview of all products. It will significantly simplify the development of product cards and contribute to a better user experience. I am looking forward to making these changes and hope they will be of benefit.
 
 
-import axios from 'axios';
-
 
