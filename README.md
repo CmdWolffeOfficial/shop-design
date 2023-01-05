@@ -120,7 +120,9 @@ Here are some recommendations for Visual Studio Code extensions that could help 
 
 ## Future planned changes
 
-Currently, no changes are being made to the products. However, users are able to submit ideas and suggestions for new systems or changes to existing systems. We welcome all feedback and will take it into consideration for future updates.
+* Next, I will be adding a footer to the page.
+
+Currently, no more changes are planed. However, users are able to submit ideas and suggestions for new systems or changes to existing systems. We welcome all feedback and will take it into consideration for future updates.
 
 
 ## Contact
