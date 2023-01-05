@@ -39,6 +39,57 @@ I look forward to hearing from you and am always open to feedback and suggestion
 
 You can then run the code and view the website by using the `open in browser` extension. You can find more useful extensions further down.
 
+## Add new products
+
+object should have the properties **image**, **name**, **description**, and **price**. Make sure that each new product object is within the curly braces of the list ([ ]) and separated by commas from the other products.
+
+Here is an example of how you might add a new product:
+
+
+#### Single product entry
+```json
+ {
+    "image": "image_url",
+    "name": "Product Name",
+    "description": "Product Description",
+    "price": 99.99
+  }
+];```
+
+#### How it looks in the array
+```javascript
+let products = [
+  {
+    "image": "https://cdn.discordapp.com/attachments/1058781414184734760/1060579309720440863/shoe_1.png",
+    "name": "Air Force 1 Mid",
+    "description": "NIKE Air Force 1 Mid - white / green / black",
+    "price": 159.95
+  },
+  {
+    "image": "https://cdn.discordapp.com/attachments/1058781414184734760/1060579310152470698/shoe_2.png",
+    "name": "Air Force 1 Mid",
+    "description": "ANIKE Air Force 1 Mid - white / gray / orange",
+    "price": 149.99
+  },
+  {
+    "image": "https://cdn.discordapp.com/attachments/1058781414184734760/1060579310886469642/shoe_3.png",
+    "name": "Air Force 1 Mid",
+    "description": "NIKE Air Force 1 Mid - white / blue / green",
+    "price": 129.99
+  },
+  {
+    "image": "https://cdn.discordapp.com/attachments/1058781414184734760/1060579311364608000/shoe_4.png",
+    "name": "Air Force 1 Mid",
+    "description": "NIKE Air Force 1 Mid - white / red",
+    "price": 129.99
+  },
+  {
+    "image": "image_url",
+    "name": "Product Name",
+    "description": "Product Description",
+    "price": 99.99
+  }
+];```
 
 ## Extensions 
 
