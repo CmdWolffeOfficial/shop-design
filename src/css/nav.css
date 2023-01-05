@@ -8,7 +8,7 @@ html {
 }
 body {
   height: 100%;
-  background-color: white
+  background-color: white;
 }
 
 nav {
@@ -32,7 +32,7 @@ nav ul li {
   height: 100%;
   padding: 30px;
   list-style-type: none;
-  border-bottom: 4px solid white
+  border-bottom: 4px solid white;
 }
 nav ul li:hover {
   border-bottom: 4px solid black;
