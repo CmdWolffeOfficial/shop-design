@@ -73,8 +73,8 @@ In the near future, I will add a JSON Server system with Axios to retrieve data 
 
 * Discord: `Cmd Wolffe | Official#3636` - [View my Discord Profile](https://discord.com/users/884114936622637136)
 * Twitter: `@CmdWolffe` - [Send me a Tweet](https://twitter.com/CmdWolffe)
-* Mail: `contact@wolffe.dev` [Send me an email](mailto:contact@wolffe.dev)
-* Website: `wolffe.dev` [View my website](https://wolffe.dev)
+* Mail: `contact@wolffe.dev` - [Send me an email](mailto:contact@wolffe.dev)
+* Website: `wolffe.dev` - [View my website](https://wolffe.dev)
 * Links: [Here you can fine more about me](https://wolffe.dev/links)
 
 
