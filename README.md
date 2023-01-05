@@ -69,4 +69,14 @@ Important changes will be noted here in the future. Currently, there are no majo
 In the near future, I will add a JSON Server system with Axios to retrieve data from the JSON Server and create product cards even faster. This will also contribute to a better overview of all products. It will significantly simplify the development of product cards and contribute to a better user experience. I am looking forward to making these changes and hope they will be of benefit.
 
 
+### Contact
+
+* Discord: `Cmd Wolffe | Official#3636` - [View my Discord Profile](https://discord.com/users/884114936622637136)
+* Twitter: `@CmdWolffe` - [Send me a Tweet](https://twitter.com/CmdWolffe)
+* Mail: `contact@wolffe.dev` [Send me an email](mailto:contact@wolffe.dev)
+* Website: `wolffe.dev` [View my website](https://wolffe.dev)
+* Links: [Here you can fine more about me](https://wolffe.dev/links)
+
+
+
 
