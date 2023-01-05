@@ -30,10 +30,10 @@ I look forward to hearing from you and am always open to feedback and suggestion
 ### Download
 
 1. Go to the GitHub page of the repository you want to download.
-2. Click on the green "Code" button and then select "Download ZIP" from the dropdown menu.
+2. Click on the green *Code* button and then select *Download ZIP* from the dropdown menu.
 3. Extract the downloaded ZIP file to a location of your choice on your computer.
 4. Open Visual Studio Code.
-5. Click on "File" in the top menu and then select "Open Folder..."
+5. Click on *File* in the top menu and then select *Open Folder...*
 6. Navigate to the location where you extracted the ZIP file and select the folder.
 7. The shop design template should now be open in Visual Studio Code.
 
@@ -46,17 +46,17 @@ Here are some recommendations for Visual Studio Code extensions that could help 
 
 #### Useful extensions recommendation
 
-* "Open in Browser": This extension allows you to open your HTML files directly in a browser without having to save them first. This can be especially useful if you want to quickly preview your work.
+* `Open in Browser`: This extension allows you to open your HTML files directly in a browser without having to save them first. This can be especially useful if you want to quickly preview your work.
 
-* "Live Server": This extension creates a local server that allows you to open and test your HTML and CSS files directly in a browser. You can then make changes in real-time and see how they affect the appearance of your page.
+* `Live Server`: This extension creates a local server that allows you to open and test your HTML and CSS files directly in a browser. You can then make changes in real-time and see how they affect the appearance of your page.
 
-* "Prettier Code Formatter": This extension automatically formats your code to make it more readable and organized. You can set how you want your code to be formatted, and the extension takes care of the rest. This can be especially useful if you are working with other developers and want to use a consistent formatting scheme.
+* `Prettier Code Formatter`: This extension automatically formats your code to make it more readable and organized. You can set how you want your code to be formatted, and the extension takes care of the rest. This can be especially useful if you are working with other developers and want to use a consistent formatting scheme.
 
 #### Optical extensions
 
-* "Horizon Theme": This theme gives your Visual Studio Code editor a modern and clean look. It offers many options for customizing colors and fonts and is easy to read.
+* `Horizon Theme`: This theme gives your Visual Studio Code editor a modern and clean look. It offers many options for customizing colors and fonts and is easy to read.
 
-* "Material Icon Theme": This extension adds Material Design icons to your files and folders to help you navigate better. The icons are color-coded and look good.
+* `Material Icon Theme`: This extension adds Material Design icons to your files and folders to help you navigate better. The icons are color-coded and look good.
 
 
 ### Changes
