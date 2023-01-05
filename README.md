@@ -54,7 +54,8 @@ Here is an example of how you might add a new product:
     "description": "Product Description",
     "price": 99.99
   }
-];```
+];
+```
 
 #### How it looks in the array
 ```javascript
@@ -89,7 +90,8 @@ let products = [
     "description": "Product Description",
     "price": 99.99
   }
-];```
+];
+```
 
 ## Extensions 
 
