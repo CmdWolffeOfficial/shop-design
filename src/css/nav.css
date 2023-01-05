@@ -1,0 +1,86 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  height: 100%;
+}
+body {
+  height: 100%;
+  background-color: white
+}
+
+nav {
+  min-height: 80px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: white;
+  color: black;
+}
+.nav_logo {
+  margin: 20px;
+  font-size: 30px;
+  font-family: sans-serif;
+  font-style: italic;
+}
+nav ul {
+  display: flex;
+}
+nav ul li {
+  height: 100%;
+  padding: 30px;
+  list-style-type: none;
+  border-bottom: 4px solid white
+}
+nav ul li:hover {
+  border-bottom: 4px solid black;
+}
+nav ul li a {
+  color: black;
+  text-decoration: none;
+  font-size: 22px;
+  font-family: sans-serif;
+}
+
+.toggle-button {
+  position: absolute;
+  top: 25px;
+  right: 25px;
+  display: none;
+  flex-direction: column;
+  justify-content: space-between;
+  width: 30px;
+  height: 23px;
+}
+.toggle-button .bar {
+  height: 4px;
+  width: 100%;
+  background-color: black;
+  border-radius: 100px;
+}
+
+@media (max-width: 750px) {
+  .list-container {
+    display: none; /* MUST BE NONE IN USE => FLEX FOR TESTING WITHOUT JS */
+    width: 100%;
+  }
+  .toggle-button {
+    display: flex;
+  }
+  nav {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  .list-container ul {
+    flex-direction: column;
+    width: 100%;
+  }
+  .list-container li {
+    text-align: center;
+  }
+  .list-container.active {
+    display: flex;
+  }
+}
