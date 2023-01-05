@@ -47,7 +47,7 @@ Here is an example of how you might add a new product:
 
 
 #### Single product entry
-```json
+```javascript
  {
     "image": "image_url",
     "name": "Product Name",
