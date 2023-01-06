@@ -1,40 +1,97 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css" integrity="sha512-MV7K8+y+gLIBoVD59lQIYicR65iaqukzvf/nwasF0nqhPay5w/9lJmVM2hMDcnK1OnMGCdVK+iQrJ7lzPJQd1w==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css"
+      integrity="sha512-MV7K8+y+gLIBoVD59lQIYicR65iaqukzvf/nwasF0nqhPay5w/9lJmVM2hMDcnK1OnMGCdVK+iQrJ7lzPJQd1w=="
+      crossorigin="anonymous"
+      referrerpolicy="no-referrer"
+    />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"
+    />
     <title>Document</title>
     <!-- CSS File  -->
     <link rel="stylesheet" href="css/nav.css" />
     <link rel="stylesheet" href="css/shop.css" />
-    
-</head>
-<body class="dark">
+    <link rel="stylesheet" href="css/footer.css" />
+  </head>
+  <body class="dark">
     <nav>
-        <div class="nav_logo">Logo</div>
-        <a href="#" class="toggle-button">
-            <span class="bar"></span>
-            <span class="bar"></span>
-            <span class="bar"></span>
-        </a>
-        <div class="list-container">
-            <ul>
-                <li><a href="#">Home</a></li>
-                <li><a href="https://wolffe.dev">Link1</a></li>
-                <li><a href="https://wolffe.dev/links">Link2</a></li>
-                <li><a href="https://wolffe.dev/links">Link3</a></li>
-            </ul>
-        </div>
+      <div class="nav_logo">Logo</div>
+      <a href="#" class="toggle-button">
+        <span class="bar"></span>
+        <span class="bar"></span>
+        <span class="bar"></span>
+      </a>
+      <div class="list-container">
+        <ul>
+          <li><a href="#">Home</a></li>
+          <li><a href="https://wolffe.dev">Link1</a></li>
+          <li><a href="https://wolffe.dev/links">Link2</a></li>
+          <li><a href="https://wolffe.dev/links">Link3</a></li>
+        </ul>
+      </div>
     </nav>
 
     <div class="gallery" id="content"></div>
-
-    
-</body>
-<!-- JavaScript File -->
-<script type="text/javascript" src="js/products.js"></script>
-<script type="text/javascript" src="js/script.js"></script>
-
+    <hr>
+    <footer class="footer">
+      <div class="column">
+        <a href="https://discord.com/users/884114936622637136" target="_blank"
+          >Discord</a
+        >
+        <a href="https://twitter.com/CmdWolffe" target="_blank">Twitter</a>
+        <a href="https://github.com/CmdWolffeOfficial" target="_blank"
+          >GitHub</a
+        >
+        <a href="https://www.instagram.com/cmd_wolffe3636" target="_blank"
+          >Instagram</a
+        >
+        <a
+          href="https://www.youtube.com/channel/UC8g8PJJk939v95eN1WrE1bQ"
+          target="_blank"
+          >YouTube</a
+        >
+      </div>
+      <div class="column">
+        <a href="#">Link Here</a>
+        <a href="#">Link Here</a>
+        <a href="#">Link Here</a>
+        <a href="#">Link Here</a>
+        <a href="#">Link Here</a>
+      </div>
+      <div class="column">
+        <a href="#">Link Here</a>
+        <a href="#">Link Here</a>
+        <a href="#">Link Here</a>
+        <a href="#">Link Here</a>
+        <a href="#">Link Here</a>
+      </div>
+    </footer>
+    <div class="copyright">
+      <p>
+        Copyright &copy;
+        <script>
+          document.write(new Date().getFullYear());
+        </script>
+        Cmd Wolffe | Official
+      </p>
+      <p id="lastline">
+        Design Created by
+        <a href="https://wolffe.dev" target="_blank">Cmd Wolffe | Official</a>,
+        Modified by
+        <a href="your_link" target="_blank">your_name</a>
+      </p>
+    </div>
+  </body>
+  <!-- JavaScript File -->
+  <script type="text/javascript" src="js/products.js"></script>
+  <script type="text/javascript" src="js/script.js"></script>
 </html>
