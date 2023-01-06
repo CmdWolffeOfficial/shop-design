@@ -127,7 +127,7 @@ Here are some recommendations for Visual Studio Code extensions that could help 
 ## Future planned changes
 
 * Next, I will change the footer to a dymanic design with js.
-* I will upload this project as react / ts app soon, with single product page and private routing features.
+* I will upload this project as react / ts app soon, with single product page and private routing features. (atomic design included)
 
 Currently, no more changes are planed. However, users are able to submit ideas and suggestions for new systems or changes to existing systems. We welcome all feedback and will take it into consideration for future updates.
 
