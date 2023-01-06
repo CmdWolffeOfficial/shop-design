@@ -118,9 +118,10 @@ Here are some recommendations for Visual Studio Code extensions that could help 
 
 ## Changes
 
+* `06.01.2023` - The website now has a footer which contains important links and information. In addition, a live demo website is now available where interested parties can see the website's functionality in action. This demo website provides a great opportunity to test the website and see how it can be used in everyday life. 
+
 * `05.01.2023` - I have created a programmatic representation of all products using JavaScript and HTML. To do this, I first created a list of products stored in JSON format. Then, I created a function that creates an HTML element for each product and returns the element. Finally, I used a loop to go through all the products and call the function to create the HTML element for each one.
 
-* `06.01.2023` - The website now has a footer which contains important links and information. In addition, a live demo website is now available where interested parties can see the website's functionality in action. This demo website provides a great opportunity to test the website and see how it can be used in everyday life. 
 
 
 ## Future planned changes
