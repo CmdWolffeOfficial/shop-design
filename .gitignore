@@ -1,8 +1,0 @@
-# Ignore all files with the .log extension
-*.log
-
-# Ignore the debug directory
-debug/
-
-# Ignore the commit_rules.md file
-commit_rules.md
