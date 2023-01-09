@@ -3,51 +3,50 @@ let products = [
   {
     "image": "https://cdn.discordapp.com/attachments/1058781414184734760/1060579309720440863/shoe_1.png",
     "name": "Air Force 1 Mid",
-    "description": "NIKE Air Force 1 Mid - white / green / black",
+    "description": "white / green / black",
     "price": 159.95
   },
   {
     "image": "https://cdn.discordapp.com/attachments/1058781414184734760/1060579310152470698/shoe_2.png",
     "name": "Air Force 1 Mid",
-    "description": "ANIKE Air Force 1 Mid - white / gray / orange",
+    "description": "white / gray / orange",
     "price": 149.99
   },
   {
     "image": "https://cdn.discordapp.com/attachments/1058781414184734760/1060579310886469642/shoe_3.png",
     "name": "Air Force 1 Mid",
-    "description": "NIKE Air Force 1 Mid - white / blue / green",
+    "description": "white / blue / green",
     "price": 129.99
   },
   {
     "image": "https://cdn.discordapp.com/attachments/1058781414184734760/1060579311364608000/shoe_4.png",
     "name": "Air Force 1 Mid",
-    "description": "NIKE Air Force 1 Mid - white / red",
+    "description": "white / red",
     "price": 129.99
-  },
-  {
+  },{
     "image": "https://cdn.discordapp.com/attachments/1058781414184734760/1060579309720440863/shoe_1.png",
     "name": "Air Force 1 Mid",
-    "description": "NIKE Air Force 1 Mid - white / green / black",
+    "description": "white / green / black",
     "price": 159.95
   },
   {
     "image": "https://cdn.discordapp.com/attachments/1058781414184734760/1060579310152470698/shoe_2.png",
     "name": "Air Force 1 Mid",
-    "description": "ANIKE Air Force 1 Mid - white / gray / orange",
+    "description": "white / gray / orange",
     "price": 149.99
   },
   {
     "image": "https://cdn.discordapp.com/attachments/1058781414184734760/1060579310886469642/shoe_3.png",
     "name": "Air Force 1 Mid",
-    "description": "NIKE Air Force 1 Mid - white / blue / green",
+    "description": "white / blue / green",
     "price": 129.99
   },
   {
     "image": "https://cdn.discordapp.com/attachments/1058781414184734760/1060579311364608000/shoe_4.png",
     "name": "Air Force 1 Mid",
-    "description": "NIKE Air Force 1 Mid - white / red",
+    "description": "white / red",
     "price": 129.99
-  }
+  },
 ];
 
 let div = (product) => {
